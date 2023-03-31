@@ -135,6 +135,18 @@ const unlockables: Unlockable[] = [
     ], 
   },
   {
+    cid: "bafybeibth5cle4ihor55la36ajcfharmsprcrd3ztpl3vpbz7yy6k3yqo4", // The badger
+    nftId: [
+      "0xbb3a7b100eb7013beeee1416478ccff61805002cc576fed1eecf7746193cd986",
+    ], 
+  },
+  {
+    cid: "bafybeie52bax6gkj3fav7ubretehkkyox4d3bcu3bw7yajyqtyqysmst3u", // The kingfisher
+    nftId: [
+      "0xee7c43850937d45212853e2ebee3a3f468411ab83bbe52fb3cc186e8cc4de9b3",
+    ], 
+  },
+  {
     cid: "bafybeifjnonjhnog27b5ewhi7n3qndmyxdceq572zrynnuv5dxanlzrbrm", // creep
     nftId: [
       "0xee85d578382e49c423475910505b39ec320039882c5e65a2b5c810dcdc675f6c",
