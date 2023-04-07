@@ -210,6 +210,12 @@ const unlockables: Unlockable[] = [
     ], 
   },
   {
+    cid: "bafybeib2wapjku4pjog4wszu3ylvevfobitvamljwavrial2e4diq5eu2y", // Sniper The Hornet
+    nftId: [
+      "0x4dea1d65e99c00028a319f4f4de69bf79b4b26bcbf771e20ed54ac015faa977f",
+    ], 
+  },
+  {
     cid: "bafybeicxrzfxgmi7uwzarpx3qrjoomb3pre5filyldkfi7fw6okyuv77yi", // SillimaniteHT
     nftId: [
       "0x3d323b801440df902740725d1bfa14ef9fb838634e3acef018a14eaf83578a86",
