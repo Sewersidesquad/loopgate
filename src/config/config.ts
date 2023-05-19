@@ -243,6 +243,55 @@ const unlockables: Unlockable[] = [
       "0xd597eaf0cd202aae4fab5b82cab82522f2e9c0353c65e79c3d80b4ef97219a49",
     ], 
   },
+  {
+    cid: "bafybeifx7qaqnmxzomklrxl4mwbkwo4tovfrpyviyo4bb562zpuczongam", // GG SwallowHT
+    nftId: [
+      "0x1e9d818ca2d99ccf289cc9bbc9963cbeafe1a6a77d8718a773d78bc30d2271ac",
+      "0xd597eaf0cd202aae4fab5b82cab82522f2e9c0353c65e79c3d80b4ef97219a49",
+    ], 
+  },
+  {
+    cid: "bafybeib3evokutipchin6wlddqbaht2jy3i34aspdiw3rjwdftpnam7y5e", // GG Swallow
+    nftId: [
+      "0x1e9d818ca2d99ccf289cc9bbc9963cbeafe1a6a77d8718a773d78bc30d2271ac",
+    ], 
+  },
+  {
+    cid: "bafybeidyuhlglktkoatrd6s4jbduauysp7qzawoy7b4s2u7arx45tpxipe", // GG Thumper
+    nftId: [
+      "0xe294e1577ae067c92af5eb8fa9588842e69c6b80aeffe1626b30203734ef690f",
+    ], 
+  },
+  {
+    cid: "bafybeicyjiddjcp5kzggpnmdtww25eehuvnz5km45i55fvyhsly55y3dsi", // GG Rooster
+    nftId: [
+      "0x14e7a86bf75adc257293a60c3ae73c61179c72ba3fa1ca0e3086ba035b7a673a",
+    ], 
+  },
+  {
+    cid: "bafybeids6graefchh4wwqitqlnvn3ishuxvzwuxbwlynx7vwczpogjcw6i", // GG Kingfisher
+    nftId: [
+      "0x3580624a51c01b6350bab0830e0d4ef6fa95b56e70ef0e92774eff75b36543e8",
+    ], 
+  },
+  {
+    cid: "bafybeieodt372k3pjwwtzsqdxx7tsbi7hwrtyznuvdnaolypycfrcpukmq", // GG Hornet
+    nftId: [
+      "0xb9242d3015eb9a499388fbebe688e174529c31fd0faba6c6e5f628925b596b61",
+    ], 
+  },
+  {
+    cid: "bafybeihroe6ifuumk3py3qx3cex7cdfnf4uoajegekdc24qeb4i3dflkb4", // GG Cyclops
+    nftId: [
+      "0x5299d43070e3c80373582976cb37ef76de249a6af9346d9995faec653ab81075",
+    ], 
+  },
+  {
+    cid: "bafybeidbiajwi4ur7hjs6siy7dt4voosbd6z5spmss3nqpwlvazjcp4hjq", // GG Badger
+    nftId: [
+      "0x771f0b2da98357014c40465231d79e9ed582a1af33c53fec7b66ee2f52b0ce5c",
+    ], 
+  },
 ];
 
 export { unlockables };
