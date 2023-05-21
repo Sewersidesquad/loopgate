@@ -290,7 +290,13 @@ const unlockables: Unlockable[] = [
     cid: "bafybeidbiajwi4ur7hjs6siy7dt4voosbd6z5spmss3nqpwlvazjcp4hjq", // GG Badger
     nftId: [
       "0x771f0b2da98357014c40465231d79e9ed582a1af33c53fec7b66ee2f52b0ce5c",
-    ], 
+    ],
+  },
+  {
+    cid: "bafybeih6aernmnix75n3k7k4h5dkbq7ogs3mvhjqi4vt5j4r2nslayimlq", // Stingray
+    nftId: [
+      "0x37a45203253c8b61519c1dd606004a5edfc60aee2af81083e979e5179de30993",
+    ],
   },
 ];
 
